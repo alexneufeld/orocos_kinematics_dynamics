@@ -1,0 +1,500 @@
+python3 -m pip install customtkinter
+python
+cd Desktop/
+source .venv/bin/activate
+python ./complex_example.py 
+deactivate
+exit
+cd Desktop/
+ls .venv/bin
+cat .venv/bin/activate
+rm -r .venv
+ls -la
+ls -lah
+ls .directory 
+ls .directory/
+ls
+ls -a
+cat .directory 
+cd ~
+yay -S kwin-bismuth
+yay -Sy kwin-bismuth
+sudo reboot
+s
+s
+pythno
+python
+cd School/MEC_E_563/labs/lab1
+typst watch report.typ 
+typst watch report.typ 
+serra help check
+serra help set
+cd Projects/thassa/
+poetry build; pipx install dist/*.whl --force-reinstall;
+poetry build; pipx install dist/*.whl --reinstall;
+poetry build; pipx install dist/*.whl;
+poetry build; pipx install dist/*.whl --force ;
+thassa
+thassa
+thassa
+thassa set
+serra set
+serra set --help
+serra set
+thassa set
+thassa set
+thassa set
+thassa set
+thassa set
+thassa set
+thassa set
+thassa set
+thassa set
+thassa set
+thassa set
+thassa set
+thassa add -i dmu
+thassa add -i -s dmu
+thassa set
+thassa set
+thassa set
+thassa help set
+thassa help set
+thassa set
+thassa set dmu
+hunspell -c report.typ
+typst watch report.
+typst watch report.typ 
+python
+cd Projects/thassa/
+ls
+cd thassa
+black ./thassa.py 
+ruff ./thassa.py 
+ruff ./thassa.py 
+ruff ./thassa.py --fix
+pipx update
+pipx upgrade
+pipx upgrade-all
+pipx list
+thassa
+cd Projects/thassa/
+thassa
+ls -lah
+cd thassa
+ls -lah
+cd ..
+which thassa
+pipx list
+pipx uninstall thassa
+thassa
+which thassa
+ls
+pipx list
+pipx insall -e .
+pipx install -e .
+cd ~
+thassa
+which thassa
+cat $(which thassa)
+ls .local/pipx/
+ls .local/pipx/venvs/
+ls .local/pipx/venvs/thassa/
+ls .local/pipx/venvs/thassa/bin/
+ls .local/pipx/venvs/thassa/bin/thassa 
+car .local/pipx/venvs/thassa/bin/thassa 
+cat .local/pipx/venvs/thassa/bin/thassa 
+cat .local/pipx/
+ls .local/pipx/
+ls .local/pipx/shared
+ls .local/pipx/venvs/
+ls .local/pipx/venvs/thassa/
+ls .local/pipx/venvs/thassa/lib
+ls .local/pipx/venvs/thassa/include/
+thassa
+thassa
+thassa missing --help
+thassa missing woe
+thassa missing lea
+thassa missing leb
+thassa missing woe
+thassa missing leb
+thassa missing lea
+thassa missing woe
+thassa
+thassa set
+thassa update
+rm .config/thassa/collection.db 
+thassa
+thassa add 6ed/106
+thassa add ulg/120
+thassa add mmq/258
+thassa add mmq/282
+thassa add s99/150
+thassa add grn/259
+thassa remove grn/259
+thassa remove grn/199
+thassa add grn/199
+thassa help remove
+thassa help remove
+thassa remove grn/259
+thassa remove grn/259
+thassa remove grn/259
+thassa remove grn/259
+thassa remove grn/259
+thassa remove grn/259
+thassa add gtc/190
+thassa add kld/195
+thassa add ulg/71
+thassa add cn2/048
+thassa add ulg/113
+thassa add ulg/118
+thassa add kld/157
+thassa add csp/119
+thassa add ktk/148
+thassa add bng/130
+thassa add dom/231
+thassa add mmq/251
+thassa add con/28
+thassa add kld/158
+thassa add cn2/194
+thassa add mm3/123
+thassa add m19/193
+thassa add ogw/134
+thassa add kld/150
+thassa add ogw/131
+thassa add cmd/144
+thassa add ulg/111
+thassa add mmq/273
+thassa add mmq/279
+thassa add usg/272
+thassa add ulg/118
+thassa add ulg/113
+thassa add mmq/272
+thassa add mmq/265
+thassa add mmq/257
+thassa add uds/103
+thassa add grn/142
+thassa add ulg/103
+thassa add akh/105
+thassa add jou/63
+thassa add 6ed/116
+thassa add bfz/114
+thassa add uds/135
+thassa remove uds/135
+thassa remove uds/135
+thassa remove usg/135
+thassa add usg/135
+thassa add kld/076
+thassa add ogw/078
+thassa add ktk/083
+thassa add bng/86
+thassa add grn/220
+thassa add mm3/170
+thassa add gpt/106
+thassa add grn/216
+thassa add grn/196
+thassa add grn/50
+thassa add mmq/231
+thassa add ogw/018
+thassa add kld/1
+thassa add cn2/025
+thassa set cn2
+thassa set
+thassa add akh/3
+thassa add dtk/6
+thassa add kld/19
+thassa add grn/3
+thassa add ths/6
+thassa add frf/3
+thassa add jou/20
+thassa add -c 2 s99/31
+thassa add m25/17
+thassa add a25/17
+thassa add csp/38
+thassa add kld/70
+thassa add 
+thassa add usg/112
+thassa add usg/95
+thassa add usg/64
+thassa add usg/86
+thassa add usg/86
+thassa add ulg/46
+thassa add kld/054
+thassa add kld/057
+thassa add avr/53
+thassa add dtk/057
+thassa add ktk/61
+thassa add jou/41
+thassa add m19/57
+thassa add grn/34
+thassa add kld/68
+thassa add m15/75
+thassa remove m15/75
+thassa remove m13/75
+thassa add m13/75
+thassa add jou/49
+thassa add ktk/62
+thassa add jou/61
+thassa add jou/61
+thassa add uds/68
+thassa add xln/209
+thassa add dom/33
+thassa add kld/102
+thassa add -c 2 kld/31
+thassa add grn/101
+thassa add ogw/111
+thassa add cn2/053
+thassa add jou/90
+thassa add akh/139
+thassa add som/88
+thassa add frf/106
+thassa add gtc/223
+thassa add ktk/138
+thassa add -f ori/10
+thassa add grn/14
+thassa add jou/53
+thassa add mmq/1
+thassa add m14/64
+thassa add usg/89
+thassa add usg/92
+thassa add usg/999
+thassa add usg/99
+thassa add ulg/98
+thassa add jou/95
+thassa add mma/113
+thassa add grn/100
+thassa add kld/140
+thassa add kld/134
+thassa add cls/94
+thassa add csp/94
+thassa add grn/111
+thassa add cn2/173
+thassa add m13/147
+thassa add cn2/171
+thassa add kld/111
+thassa add cn2/160
+thassa add dom/117
+thassa add 
+thassa add m15/98
+thassa add avr/101
+thassa add kld/77
+thassa add cm2/111
+thassa add aer/110
+thassa add avr/125
+thassa add mmq/130
+thassa add ulg/69
+thassa add 6ed/207
+thassa add 6ed/110
+thassa add rix/075
+thassa set
+thassa set --help
+thassa add ice/126
+thassa add ice/215
+thassa add ice/240
+thassa add wth/141
+thassa add mir/95
+thassa add all/72
+thassa add all/72a
+thassa add all/72a
+thassa add all/72a
+thassa add hml/91
+thassa add atq/18
+thassa add leg/309
+thassa add vis/46
+thassa add tmp/104
+thassa add p02/128
+thassa set
+cp ~/.config/thassa/collection.db ~/collection.db.backup
+ls
+thassa
+thassa card --help
+thassa card --help
+thassa check --help
+thassa
+thassa missing grn
+thassa set usg
+thassa set usg
+thassa set usg
+thassa set usg
+thassa set usg
+thassa set kld
+thassa set ulg
+find /usr -name fileio
+ls /usr/bin/sqlite3
+ls /usr/
+ls /usr/include/sqlite3
+ls /usr/lib/lib/
+ls /usr/lib/
+nvim AllPricesToday.json 
+thassa add -i -s dom
+thassa add -i -s dom
+thassa add -i -s dom
+pydoc json
+pydoc --help
+pydoc -b
+sqlite3
+sqlite3
+python
+python
+pydoc datetime.fromisocalender
+pydoc datetime.fromisocalendar
+pydoc datetime.datetime.fromisocalendar
+pipx install sqlfluff
+sqlfluff --help
+sqlfluff rules
+sqlfluff
+sqlfluff format ./q.sql 
+sqlfluff format --dialect sqlite ./q.sql 
+sqlfluff ilnt --dialect sqlite ./q.sql 
+sqlfluff lint --dialect sqlite ./q.sql 
+sqlfluff lint --dialect sqlite ./q.sql 
+sqlfluff lint --dialect sqlite ./q.sql 
+sqlfluff lint --dialect sqlite ./q.sql 
+sqlfluff format --dialect sqlite ./q.sql 
+sqlfluff format --dialect sqlite ./q.sql 
+sqlfluff lint --dialect sqlite ./q.sql 
+cd Downloads/Discord/
+./Discord 
+cd ..
+rm -r Discord/
+tar xzvf ./discord-0.0.30.tar.gz 
+rm discord-0.0.*
+cd Discord/
+./Discord 
+htop
+cd Projects/thassa/thassa/
+python price_json_parse.py 
+pydoc time.time
+pydoc time.time
+pydoc shutil.rmfile
+pydoc shutil.rm
+pydoc shutil
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+python price_json_parse.py 
+while :; do python price_json_parse.py ; done
+python price_json_parse.py 
+while :; do python price_json_parse.py ; done
+while :; do python price_json_parse.py ; done
+python price_json_parse.py 
+python price_json_parse.py 
+poetry
+poetry show
+poetry add ultrajson
+poetry add ujson
+poetry install
+ls ~/.local/bin
+python price_json_parse.py 
+cd ..
+poetry uninstall
+poetry env use
+poetry env use python
+python price_json_parse.py 
+python thassa/price_json_parse.py 
+ls -lah
+poetry install
+python thassa/price_json_parse.py 
+poetry env info
+poetry env install
+poetry env list
+poetry add ujson
+poetry run python thassa/price_json_parse.py 
+poetry add simplejson
+poetry install
+poetry run python thassa/price_json_parse.py 
+poetry run python thassa/price_json_parse.py 
+poetry run python thassa/price_json_parse.py 
+poetry list
+poetry env list
+poetry env remove
+poetry env remove thassa-2BJXIzcs-py3.11
+poetry remove
+poetry list
+poetry show
+poetry remove simplejson ujson
+poetry show
+serra help update
+ls
+black thassa/price_json_parse.py 
+ruff thassa/price_json_parse.py 
+ruff ./thassa/thassa.py 
+ruff ./thassa/thassa.py 
+black ./thassa/thassa.py 
+thassa
+thassa set --help
+thassa update --help
+export THASSA_DEBUG=true
+python
+thassa update
+thassa update
+thassa update
+thassa update
+thassa update
+ruff thassa/thassa.py 
+ruff thassa/thassa.py 
+black thassa/thassa.py 
+thassa update
+thassa update
+thassa update
+thassa update
+thassa update
+thassa update
+thassa update
+thassa update
+thassa update
+thassa update
+git diff
+git status
+rm thassa/price_json_parse.py 
+git status
+git diff poetry.lock
+ruff thassa/thassa.py 
+black thassa/thassa.py 
+ruff thassa/thassa.py 
+git diff
+git add -A; git commit -m "implement som more stuff"
+git push
+thassa stats
+ln -s /home/alex/Projects/freecad_robotpy/ /home/alex/.FreeCAD/Mod/robotpy
+thassa update
+cd Data/
+ls
+cd orocos_kinematics_dynamics/
+ls
+cd orocos_kdl/
+ls 
+sudo cmake uninstall
+cd buils
+cd build
+ls
+cd ..
+cd ..
+ls -lah
+cat kdl_clean.sh 
+cat kdl_files.txt 
+sudo rm $(kdl_files.txt)
+sudo rm $(cat kdl_files.txt)
+cd ~
+python -c "import PyKDL"
+python -c "import sys; sys.path.append("/home/alex/.local/lib/python3.11/dist-packages"); import PyKDL"
+python -c "import sys; sys.path.append('/home/alex/.local/lib/python3.11/dist-packages'); import PyKDL"
+python -c "import sys; sys.path.append('/home/alex/.local/lib/python3.11/dist-packages'); import PyKDL"
+ls /home/alex/.local/lib
+python -c "import sys; sys.path.append('/home/alex/.local/lib/python3.11/dist-packages'); import PyKDL"
+LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/alex/.local/lib python -c "import sys; sys.path.append('/home/alex/.local/lib/python3.11/dist-packages'); import PyKDL"
+history -w ~/more_pykdl_build_cmds.txt
